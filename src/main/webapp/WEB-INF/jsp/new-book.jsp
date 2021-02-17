@@ -9,7 +9,7 @@
 </head>
 <body>
     <div>
-        <h2>New User</h2>
+        <h2>New Book Information</h2>
         <div>
             <div>
                 <form:form action="/add" modelAttribute="book" method="post">
